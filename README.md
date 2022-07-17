@@ -18,7 +18,7 @@ This is a simple CRUD app that allows users to:
 
 ### Screenshots
 
-
+https://www.loom.com/share/d7386e6e4cd04dca8a7f781614e9a3b8
 
 ##
 
